@@ -1,0 +1,1 @@
+This prototype was designed to be run on TeraGrid resources on the Neutron Science Portal. Additional hooks were developed to create a UI in Rappture, but those are not provided with this repo. The program accepts parameterizations for Gaussians, Lorentzians, polynomials of arbitrary degree, and continuously varying background.
